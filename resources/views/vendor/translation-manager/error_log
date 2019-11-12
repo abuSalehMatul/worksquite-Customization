@@ -1,0 +1,4 @@
+[05-Jul-2019 03:43:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function csrf_token() in /home/workatas/public_html/portal/resources/views/vendor/translation-manager/index.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/workatas/public_html/portal/resources/views/vendor/translation-manager/index.php on line 26

@@ -1,0 +1,5 @@
+[29-Jun-2019 02:37:43 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/workatas/public_html/portal/app/EmployeeDetails.php on line 10
+[29-Jun-2019 02:37:53 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/workatas/public_html/portal/app/AttendanceSetting.php on line 9
+[29-Jun-2019 02:38:14 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/workatas/public_html/portal/app/TicketReplyTemplate.php on line 9
+[29-Jun-2019 02:38:57 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/workatas/public_html/portal/app/PushNotificationSetting.php on line 7
+[29-Jun-2019 02:39:20 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/workatas/public_html/portal/app/PaymentGatewayCredentials.php on line 9
